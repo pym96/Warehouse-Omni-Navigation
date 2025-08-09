@@ -1,7 +1,7 @@
 # 3d omniwheel navigation system
 
 ## prequisite
-~ ros1 noetic or melodic
+- ros1 noetic or melodic
 ```
 wget http://fishros.com/install -O fishros && . fishros
 ```
