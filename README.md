@@ -11,7 +11,7 @@ wget http://fishros.com/install -O fishros && . fishros
 sudo rosdep init
 rosdep update
 rosdep install --from-paths src --ignore-src -r -y
-sudo apt install libusb-dev libgoogle-glog-dev
+sudo apt install libusb-dev libgoogle-glog-dev xterm
 ```
 - compile
 ```
